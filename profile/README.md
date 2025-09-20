@@ -70,10 +70,10 @@ flowchart LR
     C --> C2[BlockPedia]
     C --> C3[SmartFaith]
     C --> C4[Nexus]
-    C --> C5[Exploratory Data Analysis]
-    C --> C6[Business Intelligence]
-    C --> C7[Predictive Modelling]
-    C --> C8[Ethic, Bias, Law, & Religion]
+    C --> C5[Exploda]
+    C --> C6[Busi]
+    C --> C7[Model Predi]
+    C --> C8[Ethika]
 
     %% Klikable links
     click B1 "https://stc-analytics.streamlit.app/" "STC Analytics App"
@@ -89,9 +89,9 @@ flowchart LR
     click C2 "https://blockpedia.streamlit.app/" "BlockPedia"
     click C3 "https://smartfaith.streamlit.app/" "SmartFaith"
     click C4 "https://rantai-nexus.streamlit.app/" "RANTAI Nexus"
-    click C5 "https://rantai-exploda.streamlit.app/" "Exploratory Data Analysis"
-    click C6 "https://rantai-busi.streamlit.app/" "Business Intelligence"
-    click C7 "https://rantai-model-predi.streamlit.app/" "Predictive Modelling"
+    click C5 "https://rantai-exploda.streamlit.app/" "RANTAI Exploda"
+    click C6 "https://rantai-busi.streamlit.app/" "RANTAI Busi"
+    click C7 "https://rantai-model-predi.streamlit.app/" "RANTAI Model Predi"
     click C8 "https://rantai-ethika.streamlit.app/" "RANTAI Ethika"
 ```
 
