@@ -128,4 +128,4 @@ flowchart TD
 
 > **Together, we code. Together, we educate. Together, we build the future.**
 
-🛠️ Built with ❤️ by the ELPEEF Team
+:octocat: Built with ❤️ by the ELPEEF Team
