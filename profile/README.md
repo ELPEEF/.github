@@ -68,7 +68,7 @@ flowchart LR
 
     C --> C1[Learn3]
     C --> C2[BlockPedia]
-    C --> C3[SmartFaith]
+    C --> C3[Diva]
     C --> C4[Nexus]
     C --> C5[Exploda]
     C --> C6[Busi]
@@ -87,7 +87,7 @@ flowchart LR
 
     click C1 "https://learn3.streamlit.app/" "Learn3"
     click C2 "https://blockpedia.streamlit.app/" "BlockPedia"
-    click C3 "https://smartfaith.streamlit.app/" "SmartFaith"
+    click C3 "https://rantai-diva.streamlit.app/" "RANTAI Diva"
     click C4 "https://rantai-nexus.streamlit.app/" "RANTAI Nexus"
     click C5 "https://rantai-exploda.streamlit.app/" "RANTAI Exploda"
     click C6 "https://rantai-busi.streamlit.app/" "RANTAI Busi"
