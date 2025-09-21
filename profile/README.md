@@ -64,7 +64,9 @@ flowchart LR
     B --> B5[STC Insight]
     B --> B6[STC Plugin]
     B --> B7[STC GasX]
-    B --> B8[DataHub]
+    B --> B8[STC ImpactViz]
+    B --> B9[STC CarbonPrint]
+    B --> B10[DataHub]
 
     C --> C1[Learn3]
     C --> C2[BlockPedia]
@@ -83,7 +85,9 @@ flowchart LR
     click B5 "https://stc-insight.streamlit.app/" "STC Insight App"
     click B6 "https://smartourism.elpeef.com/" "STC Plugin"
     click B7 "https://stc-gasx.streamlit.app/" "STC GasX App"
-    click B8 "https://stc-data.streamlit.app/" "STC DataHub App"
+    click B8 "https://stc-impactviz.streamlit.app/" "STC ImpactViz App"
+    click B9 "https://stc-carbonprint.streamlit.app/" "STC CarbonPrint App"
+    click B10 "https://stc-data.streamlit.app/" "STC DataHub App"
 
     click C1 "https://learn3.streamlit.app/" "Learn3"
     click C2 "https://blockpedia.streamlit.app/" "BlockPedia"
